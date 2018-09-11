@@ -1,0 +1,11 @@
+.Product { 
+    margin: 6rem;
+}
+
+.Product__image {}
+.Product__title {}
+.Product__author {}
+.Product__description {}
+.Product__year {}
+.Product__price {}
+.Product__addToButton {}

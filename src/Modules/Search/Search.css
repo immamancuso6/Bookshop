@@ -1,0 +1,12 @@
+.Search {
+    width: 35rem;
+}
+
+.Search__field {
+    width: 100%;
+    border: 0.2rem solid #ccc;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+    background-color: white;
+    padding: 0.7rem 0.5rem;
+}

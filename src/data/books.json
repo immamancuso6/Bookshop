@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "cover": "image.png",
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "year": 2000,
+        "description": "Oliver Twist description",
+        "price": 20.00
+    },
+    {
+        "id": 2,
+        "cover": "image.png",
+        "title": "In search of lost time",
+        "author": "Marcel Proust",
+        "year": 2000,
+        "description": "In search of lost time description",
+        "price": 24.00
+    },
+    {
+        "id": 3,
+        "cover": "image.png",
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "year": 2000,
+        "description": "The Metamorphosis description",
+        "price": 21.00
+    },
+    {
+        "id": 4,
+        "cover": "image.png",
+        "title": "Elective affinity",
+        "author": "Goethe",
+        "year": 2000,
+        "description": "The Metamorphosis description",
+        "price": 21.00
+    },
+    {
+        "id": 5,
+        "cover": "image.png",
+        "title": "The divine commedy",
+        "author": "Dante Alighieri",
+        "year": 2000,
+        "description": "The divine commedy description",
+        "price": 21.00
+    },
+    {
+        "id": 6,
+        "cover": "image.png",
+        "title": "",
+        "author": "Victor Hugo",
+        "year": 2000,
+        "description": "The Metamorphosis description",
+        "price": 21.00
+    },
+    {
+        "id": 7,
+        "cover": "image.png",
+        "title": "The red and black",
+        "author": "",
+        "year": 2000,
+        "description": "The Metamorphosis description",
+        "price": 21.00
+    },
+    {
+        "id": 8,
+        "cover": "image.png",
+        "title": "Delitto e Castigo",
+        "author": "Dostojeskii",
+        "year": 2000,
+        "description": "The Metamorphosis description",
+        "price": 21.00
+    },
+    {
+        "id": 9,
+        "cover": "image.png",
+        "title": "War and peace",
+        "author": "Tolstoj",
+        "year": 2000,
+        "description": "The Metamorphosis description",
+        "price": 21.00
+    },
+    {
+        "id": 10,
+        "cover": "image.png",
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "year": 2000,
+        "description": "David Copperfield description",
+        "price": 17.00
+    },
+    {
+        "id": 11,
+        "cover": "image.png",
+        "title": "The Prisoner",
+        "author": "Marcel Proust",
+        "year": 2000,
+        "description": "The Prisoner description",
+        "price": 21.00
+    },
+    {
+        "id": 12,
+        "cover": "image.png",
+        "title": "The Process",
+        "author": "Franz Kafka",
+        "year": 2000,
+        "description": "The Process description",
+        "price": 13.50
+    }   
+]
